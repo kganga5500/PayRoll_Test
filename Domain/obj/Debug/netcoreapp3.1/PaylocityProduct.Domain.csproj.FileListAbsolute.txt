@@ -1,0 +1,17 @@
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.AssemblyInfoInputs.cache
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.AssemblyInfo.cs
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.deps.json
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.dll
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.pdb
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.dll
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.pdb
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\BookStore.Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.csproj.AssemblyReference.cache
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.deps.json
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.dll
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\bin\Debug\netcoreapp3.1\PaylocityProduct.Domain.pdb
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.AssemblyInfoInputs.cache
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.AssemblyInfo.cs
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.dll
+C:\Users\Ganga\OneDrive\Documents\GitHub\Payroll_Product\Domain\obj\Debug\netcoreapp3.1\PaylocityProduct.Domain.pdb

@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityProduct.Web", "Web\PaylocityProduct.Web.csproj", "{7EE3260A-F568-4312-A98D-5D631B831D8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityProduct.Infrastructure", "Infrastructure\PaylocityProduct.Infrastructure.csproj", "{BBC90082-BA83-485A-9186-2FA37D32510F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityProduct.Domain", "Domain\PaylocityProduct.Domain.csproj", "{F73C2521-5289-4E4B-A357-CA9851EEEC87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityProduct.Web.Tests", "tests\BookStore.API.Tests\PaylocityProduct.Web.Tests.csproj", "{36391CA5-A157-419F-9205-EA32A19F2095}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payroll.Domain.Tests", "tests\BookStore.Domain.Tests\Payroll.Domain.Tests.csproj", "{8598EBBE-4C39-45B9-A12B-36B15428E836}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaylocityProduct.Infrastructure.Tests", "tests\BookStore.Infrastructure.Tests\PaylocityProduct.Infrastructure.Tests.csproj", "{B4493EEE-35D0-47AE-A1E4-249E15A0CC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE3260A-F568-4312-A98D-5D631B831D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE3260A-F568-4312-A98D-5D631B831D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE3260A-F568-4312-A98D-5D631B831D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE3260A-F568-4312-A98D-5D631B831D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC90082-BA83-485A-9186-2FA37D32510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC90082-BA83-485A-9186-2FA37D32510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC90082-BA83-485A-9186-2FA37D32510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC90082-BA83-485A-9186-2FA37D32510F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73C2521-5289-4E4B-A357-CA9851EEEC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C2521-5289-4E4B-A357-CA9851EEEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C2521-5289-4E4B-A357-CA9851EEEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C2521-5289-4E4B-A357-CA9851EEEC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36391CA5-A157-419F-9205-EA32A19F2095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36391CA5-A157-419F-9205-EA32A19F2095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36391CA5-A157-419F-9205-EA32A19F2095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36391CA5-A157-419F-9205-EA32A19F2095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8598EBBE-4C39-45B9-A12B-36B15428E836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8598EBBE-4C39-45B9-A12B-36B15428E836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8598EBBE-4C39-45B9-A12B-36B15428E836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8598EBBE-4C39-45B9-A12B-36B15428E836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4493EEE-35D0-47AE-A1E4-249E15A0CC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4493EEE-35D0-47AE-A1E4-249E15A0CC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4493EEE-35D0-47AE-A1E4-249E15A0CC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4493EEE-35D0-47AE-A1E4-249E15A0CC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2024D59-549A-4FA9-B549-A8C7A08C25A6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{7EE3260A-F568-4312-A98D-5D631B831D8D}|ReactTest">
+  <MonoDevelop.Ide.ItemProperties.PaylocityProduct.Business FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactTest/ClientApp/src/store/WeatherForecasts.ts">
+    <Files>
+      <File FileName="ReactTest/ClientApp/src/store/Counter.ts" Line="27" Column="5" />
+      <File FileName="ReactTest/ClientApp/src/store/WeatherForecasts.ts" Line="1" Column="1" />
+      <File FileName="ReactTest/Controllers/WeatherForecastController.cs" />
+      <File FileName="ReactTest/Program.cs" />
+      <File FileName="ReactTest/WeatherForecast.cs" />
+      <File FileName="PaylocityProduct.Data/MyClass.cs" />
+      <File FileName="PaylocityProduct.Business1/MyClass.cs" />
+      <File FileName="PaylocityProduct.Test/UnitTest1.cs" />
+      <File FileName="ReactTest/ClientApp/src/components/FetchData.tsx" />
+      <File FileName="ReactTest/ClientApp/src/store/index.ts" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaylocityProduct" expanded="True">
+            <Node name="PaylocityProduct.Business" expanded="True" />
+            <Node name="PaylocityProduct.Data" expanded="True" />
+            <Node name="PaylocityProduct.Test" expanded="True" />
+            <Node name="PaylocityProduct.Web" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="store" expanded="True">
+                    <Node name="WeatherForecasts.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PaylocityProduct.Data FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PaylocityProduct.Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PaylocityProduct.Web PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ganga/Projects/ReactTest/ReactTest/Controllers/WeatherForecastController.cs" relfile="ReactTest/Controllers/WeatherForecastController.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

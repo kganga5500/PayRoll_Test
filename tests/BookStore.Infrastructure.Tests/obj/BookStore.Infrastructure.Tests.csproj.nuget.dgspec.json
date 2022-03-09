@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\tests\\BookStore.Infrastructure.Tests\\BookStore.Infrastructure.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj",
+        "projectName": "PaylocityProduct.Domain",
+        "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\PaylocityProduct.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\PaylocityProduct.Infrastructure.csproj",
+        "projectName": "PaylocityProduct.Infrastructure",
+        "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\PaylocityProduct.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\tests\\BookStore.Infrastructure.Tests\\BookStore.Infrastructure.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\tests\\BookStore.Infrastructure.Tests\\BookStore.Infrastructure.Tests.csproj",
+        "projectName": "BookStore.Infrastructure.Tests",
+        "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\tests\\BookStore.Infrastructure.Tests\\BookStore.Infrastructure.Tests.csproj",
+        "packagesPath": "C:\\Users\\Ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\tests\\BookStore.Infrastructure.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Domain\\PaylocityProduct.Domain.csproj"
+              },
+              "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\PaylocityProduct.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Ganga\\OneDrive\\Documents\\GitHub\\Payroll_Product\\BookStore.Infrastructure\\PaylocityProduct.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

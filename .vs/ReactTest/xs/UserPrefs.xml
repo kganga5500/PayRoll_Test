@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{7EE3260A-F568-4312-A98D-5D631B831D8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactTest/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="ReactTest/ClientApp/src/store/Counter.ts" Line="27" Column="5" />
+      <File FileName="ReactTest/ClientApp/src/store/WeatherForecasts.ts" />
+      <File FileName="ReactTest/Controllers/WeatherForecastController.cs" Line="40" Column="1" />
+      <File FileName="ReactTest/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactTest" expanded="True">
+            <Node name="ReactTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="StackExchange.Redis" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True" />
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                  <Node name="store" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ReactTest PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ganga/Projects/ReactTest/ReactTest/Controllers/WeatherForecastController.cs" relfile="ReactTest/Controllers/WeatherForecastController.cs" line="13" column="1" />
+      <Breakpoint file="/Users/ganga/Projects/ReactTest/ReactTest/Controllers/WeatherForecastController.cs" relfile="ReactTest/Controllers/WeatherForecastController.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
